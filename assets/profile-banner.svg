@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mateus Arruda — Desenvolvimento de software</title>
+<desc id="desc">Backend, APIs e automação. Banner em azul escuro com detalhes geométricos em azul e verde.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1629"/><stop offset="1" stop-color="#162b46"/></linearGradient><linearGradient id="accent"><stop stop-color="#5da9ff"/><stop offset="1" stop-color="#5de0c1"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#86b6e5" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/><rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<path d="M0 316H1200" stroke="url(#accent)" stroke-width="8"/>
+<circle cx="1090" cy="95" r="140" fill="none" stroke="#5da9ff" stroke-opacity=".10" stroke-width="40"/>
+<circle cx="1090" cy="95" r="86" fill="none" stroke="#5de0c1" stroke-opacity=".16"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="68" y="66" fill="#6de1c8" font-size="14" letter-spacing="4">MATEUSD3V / SOFTWARE DEVELOPMENT</text>
+<text x="64" y="145" fill="#f2f7ff" font-size="64" font-weight="700" letter-spacing="-2">Mateus Arruda</text>
+<text x="68" y="194" fill="#c2d2e5" font-size="25">Backend, APIs e automação</text>
+<text x="68" y="259" fill="#92aac5" font-size="16">Soluções úteis. Integrações confiáveis. Aprendizado contínuo.</text></g>
+<g stroke="url(#accent)" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="938" y="143" width="172" height="109" rx="14" stroke-opacity=".45"/><path d="m986 177-19 20 19 20m76-40 19 20-19 20m-42-48-17 55"/><path d="M966 269h116" stroke-opacity=".4"/></g>
+</svg>
